@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 0;
+    padding: 0;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    color: #f77979;
+}
+
+table, tr, th, td{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+    border: solid 1px black;
+
+}
+th, td {
+     padding: 20px;
+     text-align: left;
+     border-bottom: 1px; 
+
+
+}
+th{
+    background-color: #f77979;
+    color: blue;
+}
+
+tr.jogo1{
+    background-color: #0edd53;/* cor referenteao jogo*/
+}
+tr.jogo2{
+    background-color: rgba(255, 0, 0, 0.89)
+}
+tr.jogo3{
+    background-color: rgb(153, 129, 129)
+}
+tr.jogo4{
+    background-color:rgb(238, 158,10) 
+}
+tr.jogo5{
+    background-color:rgb(180, 101, 101) 
+}
+tr.jogo6{
+    background-color:rgb(29, 29, 235) 
+}
+tr.jogo7{
+    background-color:rgb(12, 11, 11)
+}
+tr.jogo8{
+    background-color: rgb(250, 213, 3)
+
+}
+tr.jogo9{
+    background-color: rgb(206, 193, 193)
+}
+tr.jogo10{
+    background-color: rgb(252, 13, 13)
+}
